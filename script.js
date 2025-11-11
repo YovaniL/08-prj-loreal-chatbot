@@ -4,7 +4,7 @@ const userInput = document.getElementById("userInput");
 const chatWindow = document.getElementById("chatWindow");
 
 // Set initial message
-chatWindow.textContent = "👋 Hello! How can I help you today?";
+chatWindow.textContent = "👋 Welcome! I’m so glad you’re here. As your L’Oréal beauty expert, I’m here to help you discover the best L’Oréal products and routines for your unique needs. Whether you’re curious about skincare, haircare, or makeup, feel free to ask me anything related to beauty or L’Oréal. How can I assist you today? ";
 
 // Initialize conversation history
 const conversationHistory = [
